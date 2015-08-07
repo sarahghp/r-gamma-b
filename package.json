@@ -1,0 +1,23 @@
+{
+  "name": "r-gamma-b",
+  "version": "1.0.0",
+  "description": "Gamma correct your values, you who have RGB LEDs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahgp/r-gamma-b.git"
+  },
+  "keywords": [
+    "rgbled",
+    "color"
+  ],
+  "author": "Sarah Groff-Palermo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarahgp/r-gamma-b/issues"
+  },
+  "homepage": "https://github.com/sarahgp/r-gamma-b#readme"
+}
